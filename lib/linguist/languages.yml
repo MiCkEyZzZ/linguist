@@ -8242,6 +8242,16 @@ Unix Assembly:
   tm_scope: source.x86
   ace_mode: assembly_x86
   language_id: 120
+UON:
+  type: data
+  group: JSON
+  ace_mode: json
+  codemirror_mode: javascript
+  codemirror_mime_type: application/json
+  extensions:
+  - .uon
+  - .уон
+  tm_scope: source.json
 Uno:
   type: programming
   color: "#9933cc"
